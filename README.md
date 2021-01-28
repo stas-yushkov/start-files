@@ -10,7 +10,7 @@ HTMLHint https://htmlhint.com/docs/user-guide/list-rules
 
 stylelint https://stylelint.io/user-guide/rules/list
 
-Prettier - форматирует код
+Prettier - форматирует код https://prettier.io/docs/en/options.html
 
 
 
