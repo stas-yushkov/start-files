@@ -12,6 +12,10 @@ stylelint https://stylelint.io/user-guide/rules/list
 
 Prettier - форматирует код
 
+
+
+Еще не установил:
+
 Path Intellisence - подсвечивает имена файлов и папок при прописывании пути
 
 Error Lens - подсвечивает синтаксические ошибки в коде
